@@ -224,7 +224,7 @@
   background-color: var(--color-gray-200);
   flex-direction: row;
   justify-content: flex-start;
-  padding: var(--padding-12xl) 36px;
+  padding: var(--padding-12xl) var(--padding-17xl);
   box-sizing: border-box;
   position: relative;
   white-space: nowrap;
@@ -306,7 +306,7 @@
     font-size: var(--font-size-10xl);
   }
   .frame-main {
-    padding-bottom: 38px;
+    padding-bottom: var(--padding-19xl);
     box-sizing: border-box;
   }
 }

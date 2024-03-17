@@ -210,7 +210,7 @@
   width: 489px;
   outline: 0;
   border-radius: var(--br-11xl);
-  padding: 29px var(--padding-14xl);
+  padding: var(--padding-10xl) var(--padding-14xl);
   box-sizing: border-box;
   font-family: var(--font-inria-sans);
   font-size: var(--font-size-5xl);
